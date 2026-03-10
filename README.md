@@ -20,7 +20,7 @@ PhD researcher in Learning Sciences and Digital Technologies, working at the int
 
 Laurea in Sociologia (Università degli Studi di Salerno, 2004). Previously: sociologist in nonprofit and public sector contexts; university lecturer in Sociologia Generale and Sociologia dell'Educazione.
 
-**Languages:** Italian (native) · English (C2) · Spanish (B1)
+**Languages:** Italian (native) · English (C2) · Spanish (B1) · French (B1) · Japanese (A1)
 
 ---
 
@@ -58,14 +58,29 @@ A sociology of delegated judgment under uncertainty. The paper argues that LLMs 
 
 ---
 
-## Conferences & Presentations
+## Latest International Conferences — Chair & Session Organizer
 
-| Year | Event | Role | Contribution |
-|------|-------|------|-------------|
-| 2024 | Scuola Democratica — *Education and/for Social Justice*, Cagliari | Speaker | *Identity and social media addiction in the Onlife era: a Social Media Diet proposal* |
-| 2025 | *Data Science & Social Research*, International Conference | Author | *The role of data in ecoliteracy: an EcoAI for sustainability* |
-| 2025 | H-DIA — *Scientific Dissemination, AI and Academic Teaching*, Università di Foggia | Participant | Course on AI for scientific dissemination and academic methodology |
-| 2025 | Scuola Estiva sul Metodo e la Ricerca Sociale, Associazione Paideia | Participant | Survey design, statistical analysis, research ethics |
+### ISA World Congress of Sociology — Rabat, 6–11 July 2025
+**Role: Panel Chair · Session Organizer**
+
+**Abstract #155467 — RC04 Sociology of Education**  
+*Education for a Sustainable Future: An EcoAI Framework for Target 4.7*  
+Session: Sustainable Development Goals and Global Citizenship
+
+**Abstract #164547 — WG10 Digital Sociology**  
+*Emotional AI and the Onlife Self: A New Dawn of a Novel Human-Machine Paradigm*  
+Session: Myths and Realities of Digitalisation
+
+**Session #784 — Session Organizer**  
+*Evolving Tourism: New Trends, Diverse Travelers, and Innovative Experience Models*  
+With Letizia Carrera & Paolo Contini (University of Bari Aldo Moro)
+
+---
+
+### ISA RC-22 Mid-term Conference — New Delhi, 5–8 February 2026
+**Role: Session Organizer**  
+*Sacred Algorithms: AI, Spirituality, and the Reconfiguration of the Sacred in Digital Cultures*  
+Global Flows and Reconfigurations of the Sacred · South Asian University (SAARC)
 
 ---
 
