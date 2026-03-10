@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="photo.jpg" alt="Gianfranco Rubino" width="160" style="border-radius: 50%"/>
-
 # Gianfranco Rubino
 
 **PhD Researcher · Sociologist · Learning Sciences & Digital Technologies**   · XXXVIII PhD Cycle
